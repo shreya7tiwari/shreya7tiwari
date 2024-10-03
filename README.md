@@ -1,4 +1,7 @@
+<div align="center">
+   
    ![MasterHead](https://miro.medium.com/v2/resize:fit:640/format:webp/1*HTC1oMKYwC7a8vUBsiplhw.gif)
+</div>
 
 <h1 align="center">Hi 👋, I'm Shreya Tiwari</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
