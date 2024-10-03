@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Tiwari</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" height="150">
+    <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" height="150">
 </p>
 
 ## 🌐 Socials:
