@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif)
+![MasterHead](https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif)
 
 <h1 align="center">Hi 👋, I'm Shreya Tiwari</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
