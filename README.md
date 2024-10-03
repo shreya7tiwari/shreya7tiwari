@@ -1,4 +1,4 @@
-![MasterHead]("C:\Users\a\Downloads\stock-footage-metaverse-business-meeting-conference-vr-virtual-office-digital-world-technology-ar-augmented.webm")
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hi 👋, I'm Shreya Tiwari</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
