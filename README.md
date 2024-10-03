@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://harsh7editor.github.io/Portfolio-dark-whilte.com/](https://harsh7editor.github.io/Portfolio-dark-whilte.com/)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **Android Development**
 
@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh7editor&show_icons=true&locale=en" alt="harsh7editor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh7editor&" alt="harsh7editor" /></p>
+
 # 📊 Competitive Stats:
 
 [![KnlnKS's LeetCode stats](https://leetcard.jacoblin.cool/harsh_kori277)](#)
