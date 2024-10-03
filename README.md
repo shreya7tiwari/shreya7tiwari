@@ -1,4 +1,4 @@
-![MasterHead](https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif)
+![MasterHead]( https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif )
 
 <h1 align="center">Hi 👋, I'm Shreya Tiwari</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
